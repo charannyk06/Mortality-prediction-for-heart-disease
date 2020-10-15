@@ -27,15 +27,3 @@ for line in sys.stdin:
     #key = random.randint(0, options.n_model - 1)
     
     
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
