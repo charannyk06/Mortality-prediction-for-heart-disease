@@ -24,15 +24,3 @@ for line in sys.stdin:
 
 file = os.fdopen(sys.stdout.fileno(), 'wb')
 pickle.dump(classifier, file, protocol = 0)
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
