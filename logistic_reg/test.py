@@ -44,15 +44,3 @@ if __name__ == '__main__':
         plt.title('Receiver operating characteristic')
         plt.legend(loc="lower right")
         plt.savefig(options.result)
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
